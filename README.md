@@ -1,10 +1,5 @@
 ### Hi there 👋 I'm Eric R. Sherrill in Chicago, IL
 
-<-- **esherrill-uisg/esherrill-uisg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
-
 - 🔭 I’m currently working on Terraform, Ansible, AWS and Azure
 - 🌱 I’m currently learning Ansible
 - 👯 I’m looking to collaborate on not much at the moment
