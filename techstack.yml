@@ -1,7 +1,8 @@
 repo_name: esherrill-uisg/esherrill-uisg
 report_id: ee4a42ad91bada24ab8ce6915383f23b
+version: 0.1
 repo_type: Public
-timestamp: '2023-12-14T16:42:45+00:00'
+timestamp: '2024-01-05T08:23:03+00:00'
 requested_by: esherrill-uisg
 provider: github
 branch: main
@@ -15,4 +16,5 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/esherrill-uisg/esherrill-uisg
   detection_source: Repo Metadata
