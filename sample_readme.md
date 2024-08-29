@@ -17,7 +17,7 @@ Setup examples (Linux):
 ...
 # pull code
 cd ~/Developer
-git clone https://git.us-west-2.codecatalyst.aws/v1/UISOLUTIONS/FlaskDbFrontend/FlaskDbFrontend
+git clone [REDACTED]
 cd FlaskDBFrontend
 # create a virtualenv
 python -m venv .venv
