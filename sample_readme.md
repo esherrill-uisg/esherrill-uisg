@@ -50,4 +50,4 @@ applocal.sh
 
 ## Contact
 * Eric Sherrill 
-* esherrill@uisg.com
+* eric.sherrill(@)gmail.com
