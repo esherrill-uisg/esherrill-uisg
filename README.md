@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on all of the above
 - 🤔 I’m looking for help with any of the above
 - 💬 Ask me about anything
-- 📫 How to reach me: esherrill{at}uisg.com
+- 📫 How to reach me: eric.sherrill{at}gmail.com
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I used to be a lawyer back in the 90's
 
